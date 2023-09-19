@@ -1,5 +1,3 @@
-package week1;
-
 public abstract class Animal{
     public static void main(String[] args) {
         // Animal a = new Animal(); // 추상 클래스는 인스턴스를 생성할 수 없음.
